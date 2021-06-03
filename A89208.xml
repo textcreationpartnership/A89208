@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moderation. Name and thing. One blow whilst the iron is hot.</title>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89208</idno><idno type="EEBO-CITATION">99862402</idno>
+  <idno type="VID">160491</idno>
+  <idno type="EEBO-PROQUEST">2240941728</idno>
+  
+            <idno type="STC">Wing M2332</idno>
+            <idno type="STC">Thomason E406_14</idno>
+            <idno type="STC">ESTC R201920</idno>
+            <idno type="PROQUEST">99862402</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99862402e"/>
+            <note>(EEBO-TCP ; phase 2, no. A89208)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160491)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E406[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moderation. Name and thing. One blow whilst the iron is hot.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Bostock.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 10th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Moderation --  Religious aspects --  Christianity --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160491:1"/>
+            <p>
+               <hi>MODERATION. NAME AND THING.</hi>
+            </p>
+            <p>One blow whilst the Iron is hot.</p>
+            <p>LONDON, <hi>Printed for</hi> Robert Bostock. <hi>1647.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160491:2"/>
+            <pb n="1" facs="tcp:160491:2"/>
+            <head>Arguments FOR MODERATION.</head>
+            <head type="sub">
+               <hi>Argum.</hi>
+            </head>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/>
+               <seg rend="decorInit">G</seg>OD threatens to spue the Luke<g ref="char:EOLhyphen"/>warme out of his mouth. <hi>Ergo.</hi>
+               <note place="margin">Rev. 3.15, 16.</note> There is need of <hi>Moderation.</hi> That wee may alwayes bee di<g ref="char:EOLhyphen"/>stastfull unto GOD, never have a good looke from CHRIST more.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> The Prophets of old complained with griefe <note place="margin">Iere. 9.14</note>
+               <pb n="2" facs="tcp:160491:3"/> of heart. That they were not valiant for the Truth. <hi>Ergo.</hi> Moderation is now if ever neces<g ref="char:EOLhyphen"/>sary. That our modern Prophets may have something to complaine of, and the whole foreigne world bear witness of our super-emi<g ref="char:EOLhyphen"/>nent cowardise.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/>
+               <note place="margin">Rev. 3.19.</note>The Church of God is expresly commanded to be zealous and repent of Lukewarme Mo<g ref="char:EOLhyphen"/>deration, as a peece of the Antichristian con<g ref="char:EOLhyphen"/>fusion. <hi>Ergo.</hi> All should be Moderate. That we may publish an infallible evidence of our impenitence, and speak out unto all the world, that we make as little of Gods old Commande<g ref="char:EOLhyphen"/>ment as of our new Covenant, breaking both at pleasure.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/>
+               <note place="margin">Iude 1.3.</note>It is one duty and character of a true Saint, to contend earnestly for the faith, <hi>Ergo.</hi> strive to be moderate in Religion. That so the world may be no longer mistaken in us, seeing how few Saints indeed are among us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> All ought to bee moderate in the use of the world. <hi>Ergo.</hi> we ought to study and practise a moderation in matters of Religion. For why should we under value earthly and over-value heavenly Treasure? We are for moderation, that is but a Schoole-distinction.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> They that are most moderate for saving Truths, are in most danger of destroying Er<g ref="char:EOLhyphen"/>rors. <hi>Ergo.</hi> Be as moderate as you can, that ye
+<pb n="3" facs="tcp:160491:3"/> may see how far you may possibly go in Error, if by your moderation you let go Truth, so shal you improve every opportunity to discover your hypocrisie by apostacy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="7"/> Moderation (in the sense of the most) is an e<g ref="char:EOLhyphen"/>nemy to resolution for Christ against Antichrist <hi>Ergo.</hi> Be sure to be moderate, that al may know. ye never resolved to stand and keep steddy.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="8"/> The most now a dayes are for Moderation. <hi>Ergo.</hi> Be moderate, that you may go with the crowd, and follow the multitude for fashion: and tell the world you have forgot a rem<g ref="char:EOLhyphen"/>nant shall be saved.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Moderation in Religion is an enemy to setled Peace and Truth. <hi>Ergo.</hi> Be moderate, that you may begin a new war, then shal the world know them to be authors or abetors who are now ac<g ref="char:EOLhyphen"/>cusers, and not let such march away with flying coulours.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Moderation in Religion is the high-way to Kingdome-destruction. <hi>Ergo.</hi> We are for mo<g ref="char:EOLhyphen"/>deration to put. 3. kingdoms out of paine, that so we may not be guilty of tormenting any one of them with a lingring death. I warrant you this sends them going?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> The enemies of saving Truths are very hot for Error. <hi>Ergo.</hi> We ought to be moderate for the Truth. For we scorn to learn of our adversa<g ref="char:EOLhyphen"/>ries, though all their zealous diligence will one day rise up in judgement against our immode<g ref="char:EOLhyphen"/>rate neglect of God and his Truth, Christ and his Gospell.</p>
+            <pb n="4" facs="tcp:160491:4"/>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="12"/> Zeale for GOD was never yet blamed for too much heate, but too little light.—not being according to Knowledge. <hi>Ergo.</hi> Turn all your Zeale into <hi>Moderation</hi> for the true Religion. So shall the world be more able to beare you witnesse, that you are at once Mole-eyed, and Key-cold in matters of Religion. Is this for your commendation? <hi>Judge ye.</hi>
+            </p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="13"/>
+               <hi>Modus in fide est modus nescire.</hi> In plaine English, hee that will bee truly Moderate in Religion, must know no Moderation. <hi>Ergo.</hi> Study Moderation, for what should you doe with so much humane learning, as to English the old Latin? Know yee not that he is in an errour who dotes upon humane Literature?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="14"/>
+               <note place="margin">2 Tim. 2.14, 23, 24.</note>The servant of the Lord must not strive. <hi>Ergo.</hi> There is all reason you should use Mo<g ref="char:EOLhyphen"/>deration in Religion. To shew you care as lirtle for the most necessary things of God, as for the vaine words of men.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="15"/> There is a third party that is like to carry all. <hi>Ergo.</hi> Moderation is necessary. That so they may have few or none to hinder them. For why should not they enjoy Liberty?</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="16"/> Such as are ashamed or afraid to appeare for Christ and his Truth, when they are strongly opposed, are in danger of Hell fire. <hi>Ergo.</hi>
+               <pb n="5" facs="tcp:160491:4"/> Be not too forward in Religion, but study Moderation, that you and your sins may goe before to judgement, and the hottest place in Hell may not be taken up before you come.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="17"/> The Divell and the Iesuits compleate their strong delusions, by this taking notion, ser<g ref="char:EOLhyphen"/>ving their own turne by the closest students of Moderation. <hi>Ergo.</hi> Moderation is necessa<g ref="char:EOLhyphen"/>ry. For why should not they be still gratified who have been hitherto so well served by us, that so they may not be found to have laboured in vaine, or faile of accomplishing their de<g ref="char:EOLhyphen"/>signe of universall Tolleration, the sure in let unto Ruine of all, without exception.</p>
+            <l>
+               <milestone type="tcpmilestone" unit="unspecified" n="18"/> No Moderation, no Toleration.</l>
+            <l>No Toleration, no Desolation.</l>
+            <l>
+               <hi>Ergo.</hi> Be valiant for the Truth.<note place="margin">Iude 3.</note>
+            </l>
+            <l>Contend earnestly for the Faith.<note place="margin">2 Rev. 10.</note>
+            </l>
+            <l>Be faithiull unro the death.<note place="margin">1 cor. 9.24</note>
+            </l>
+            <l>So run that you may obtaine.<note place="margin">2 Tim. 2.3.5.</note>
+            </l>
+            <l>Strive lawfully for the Mastery.</l>
+            <l>Resist the Divell by your stedfastnesse in the Faith.<note place="margin">1 Pet. 5.8, 9.</note>
+               <note place="margin">1 Phil. 27.</note>
+            </l>
+            <l>Countermine the Iesuits by your con<g ref="char:EOLhyphen"/>stancy for the Truth.</l>
+            <l>Strive together for the Faith of the Gospell, standing fast in one spirit, with one mind.</l>
+            <pb n="6" facs="tcp:160491:5"/>
+            <p>And if you dye by this your striving your Epitaph is already written.</p>
+            <q>
+               <note place="margin">Rev. 14.12</note>HERE IS THE PATIENCE OF THE SAINTS: HERE ARE THEY THAT KEEPE THE COMMANDEMENTS OF GOD, AND THE FAITH OF JESUS.</q>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
